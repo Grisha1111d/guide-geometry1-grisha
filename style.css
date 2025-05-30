@@ -1,0 +1,79 @@
+header {
+    background-color:rgb(255, 247, 197);
+    border: 2px solid rgb(255, 237, 122);
+    border-radius: 5px;
+    
+}
+body {
+    font-family: sans-serif;
+    background-color: rgb(248, 255, 181);
+}
+
+
+.aa{
+    margin-left: 230px;
+}
+header:hover{
+    background-color: rgb(255, 242, 155);
+    border: 2px dashed rgb(255, 230, 67);
+    box-shadow: 5px 5px rgb(49, 49, 49);
+}
+.adc{
+    margin-left: 200px;
+    color: black;
+    text-decoration: none;
+    background-color: rgb(255, 237, 122);
+    border: 15px solid rgb(255, 237, 122);
+    border-radius: 5px;
+}
+.adx{
+    margin-left: 100px;
+    color: black;
+    text-decoration: none;
+    background-color: rgb(255, 237, 122);
+    border: 15px solid rgb(255, 237, 122);
+    border-radius: 5px;
+}
+
+nav{
+    margin-bottom: 50px;
+    margin-top: 30px;
+   
+}
+.adc:hover{
+    background-color: rgb(255, 221, 0);
+    border:15px solid rgb(255, 221, 0)
+}
+.adx:hover{
+    background-color: rgb(255, 221, 0);
+    border:15px solid rgb(255, 221, 0)
+}
+.adc:focus{
+    box-shadow: 5px 5px rgb(49, 49, 49);
+    background-color: rgb(185, 160, 0);
+    border:15px solid rgb(185, 160, 0);
+}
+.adx:focus{
+    box-shadow: 5px 5px rgb(49, 49, 49);
+    background-color: rgb(185, 160, 0);
+    border:15px solid rgb(185, 160, 0);
+}
+.psevdo{
+    border: 5px solid ;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    background-color: aliceblue;
+    padding: 10px;
+}
+.dfv{
+    margin-left: 220px;
+    margin-bottom: 70px;
+}
+.hf{
+    margin-left: 280px;
+}
+.img23{
+    margin-bottom: 100px;
+    margin-left: 190px;
+}
+
